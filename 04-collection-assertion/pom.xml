@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.github.sparsick.heise.assertj</groupId>
-    <artifactId>03-collection-assert</artifactId>
+    <artifactId>04-collection-assert</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
 
-    <name>03 - AssertJ Collection Assertion</name>
+    <name>04 - AssertJ Collection Assertion</name>
 
     <properties>
         <java.version>17</java.version>
